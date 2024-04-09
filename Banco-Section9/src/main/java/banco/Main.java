@@ -1,6 +1,5 @@
 package banco;
 
-
 import entities.Conta;
 import java.util.Scanner;
 
