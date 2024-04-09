@@ -9,8 +9,8 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
     <modules>
-        <module>Banco-Section9</module>
-        <module>Java-Section10</module>
+        <module>9-Section</module>
+        <module>10-Section</module>
     </modules>
 
     <properties>
