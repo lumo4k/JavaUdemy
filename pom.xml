@@ -10,7 +10,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>9-Section</module>
-        <module>Seção 10/VetoresPt1</module>
+        <module>10-Section</module>
     </modules>
 
     <properties>
