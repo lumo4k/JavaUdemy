@@ -7,11 +7,15 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/Banco-Section10/pom.xml" />
         <option value="$PROJECT_DIR$/Seção 10/VetoresPt1/pom.xml" />
+        <option value="$PROJECT_DIR$/Seção 10/VetoresPt2/pom.xml" />
+        <option value="$PROJECT_DIR$/Section10/VetoresPt1/pom.xml" />
+        <option value="$PROJECT_DIR$/Section10/VetoresPt2/pom.xml" />
+        <option value="$PROJECT_DIR$/DataHora/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
-        <option value="$PROJECT_DIR$/Banco-Section10/pom.xml" />
+        <option value="$PROJECT_DIR$/Section10/VetoresPt1/untitled/pom.xml" />
       </set>
     </option>
   </component>
